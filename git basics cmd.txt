@@ -1,0 +1,6 @@
+to unstage git reset HEAD file
+
+content modifed will be thetre butt to discard
+
+git chedckout --file
+
